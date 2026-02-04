@@ -2,3 +2,4 @@
 --pycache__/
 *.pyc
 /transformer.joblib
+*.csv

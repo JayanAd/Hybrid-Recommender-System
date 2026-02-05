@@ -1,2 +1,4 @@
 /cleaned_data.csv
 /transformed_data.npz
+/track_ids.npy
+/interaction_matrix.npz

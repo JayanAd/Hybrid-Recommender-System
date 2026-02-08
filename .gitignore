@@ -1,5 +1,5 @@
 .venv/
---pycache__/
+__pycache__/
 *.pyc
 /transformer.joblib
 *.csv
